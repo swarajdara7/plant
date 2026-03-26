@@ -1,0 +1,282 @@
+﻿[
+    {
+        "name": "Tulsi (Holy Basil)",
+        "type": "Herb",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.CQ5TMlsLtDqVVGfHVj-y9QHaFW?w=278&h=200&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Money Plant",
+        "type": "Climber/Indoor",
+        "wateringFrequency": "Once in 7-10 days",
+        "fertilizingFrequency": "Once in 6 months",
+        "photoUrl": "https://th.bing.com/th/id/OIP.DGY7bcEmfxO1azec57oLqgHaHa?w=190&h=190&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Aloe Vera",
+        "type": "Succulent",
+        "wateringFrequency": "Every 2-3 weeks",
+        "fertilizingFrequency": "Twice a year",
+        "photoUrl": "https://th.bing.com/th/id/OIP.VYfcyhuSLgBSsRLEQMkg2QHaEK?w=320&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Snake Plant",
+        "type": "Indoor/Succulent",
+        "wateringFrequency": "Every 2-3 weeks",
+        "fertilizingFrequency": "During growing season",
+        "photoUrl": "https://th.bing.com/th/id/OIP.2o5pEuWL9rciAGADls4xhgHaFH?w=61&h=63&c=1&rs=1&qlt=70&r=0&o=7&pid=InlineBlock&rm=3"
+    },
+    {
+        "name": "Areca Palm",
+        "type": "Indoor/Outdoor",
+        "wateringFrequency": "Twice a week",
+        "fertilizingFrequency": "Every 2 months",
+        "photoUrl": "https://th.bing.com/th/id/OIP.5T8T115Myw5ye1CmVgl44wHaHa?w=150&h=181&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Neem",
+        "type": "Tree",
+        "wateringFrequency": "Daily (when young)",
+        "fertilizingFrequency": "Yearly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.xx0tcTV10d7i0a5nwAKLLgHaFj?w=238&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Curry Leaf Plant",
+        "type": "Shrub",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.AIDnSujFHguIUjKVxC8svwHaLK?w=130&h=196&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Spider Plant",
+        "type": "Indoor",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.CbWL03lcwosE7HogjpPp4wHaFj?w=224&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Peace Lily",
+        "type": "Indoor/Flowering",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Every 6 weeks",
+        "photoUrl": "https://th.bing.com/th/id/OIP.iHI04jh4Es7fikhtSBUTVQHaLI?w=130&h=196&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Jade Plant",
+        "type": "Succulent",
+        "wateringFrequency": "Every 2-3 weeks",
+        "fertilizingFrequency": "Once in 6 months",
+        "photoUrl": "https://th.bing.com/th/id/OIP.kTjYA4WxRIwML4IHyCnEwQHaHa?w=242&h=182&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Bougainvillea",
+        "type": "Climber/Outdoor",
+        "wateringFrequency": "Every 3-4 days",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.OAD9M7raO9R1NS3QhgnShQHaJ1?w=62&h=62&c=1&rs=1&qlt=70&r=0&o=7&pid=InlineBlock&rm=3"
+    },
+    {
+        "name": "Hibiscus",
+        "type": "Flowering Shrub",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Every 2 weeks",
+        "photoUr": "https://th.bing.com/th/id/OIP.mRcPi3rmXi_E5fls6zwDWAHaEO?w=280&h=188&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Rose (Desi Gulab)",
+        "type": "Flowering Shrub",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Every 2 weeks",
+        "photoUrl": "https://th.bing.com/th/id/OIP.7bqlD_06w_g3_0XZcxLcZwHaLH?w=115&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Jasmine (Mogra)",
+        "type": "Flowering Shrub",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.XHlARbqRsCQgGCGu9YIZYwHaHa?w=145&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Marigold",
+        "type": "Flowering/Seasonal",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.CdPjJkv85SgHEE_Gx5SvVQHaE6?w=298&h=198&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Lemon Grass",
+        "type": "Herb",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.KKEEopeovHDqgPD66kAtEQHaHa?w=176&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Mint (Pudina)",
+        "type": "Herb",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.1yZZJuKsmZR7wSh5jAaNPwHaE8?w=267&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Coriander (Dhania)",
+        "type": "Herb",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Every 2-3 weeks",
+        "photoUrl": "https://th.bing.com/th/id/OIP.IvxBfGBySBsjodVB2Sl9QQHaFW?w=268&h=194&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Ashwagandha",
+        "type": "Medicinal Herb",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Every 2 months",
+        "photoUrl": "https://th.bing.com/th/id/OIP.2YukKLXudfDWXyXfKpB65gHaIk?w=158&h=183&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Lucky Bamboo",
+        "type": "Indoor",
+        "wateringFrequency": "Top up water weekly",
+        "fertilizingFrequency": "Every 2 months",
+        "photoUrl": "https://th.bing.com/th/id/OIP.JYfLQQQutUckveEFN5FcUQHaHa?w=138&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Rubber Plant",
+        "type": "Indoor Tree",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.Zgt8v5Egp5D48ZRNE2TstwHaJQ?w=203&h=253&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Ficus Benjamina",
+        "type": "Indoor Tree",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.9s2DONACnNY7y1z8h2iRDAHaJ4?w=130&h=186&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "ZZ Plant",
+        "type": "Indoor",
+        "wateringFrequency": "Every 2-3 weeks",
+        "fertilizingFrequency": "During growing season",
+        "photoU": "https://th.bing.com/th/id/OIP.XblLQRVrT_K84bUq4CIQHQHaFj?w=257&h=193&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Croton",
+        "type": "Indoor/Outdoor",
+        "wateringFrequency": "Every 3-4 days",
+        "fertilizingFrequency": "Monthly",
+        "photo": "https://th.bing.com/th/id/OIP.XnhhP3s3ddxPmWCCnesEFwHaG_?w=186&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Anthurium",
+        "type": "Indoor/Flowering",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Every 6 weeks",
+        "photoUrl": "https://th.bing.com/th/id/OIP.jSnNmCQ-6YGJsrP31ctrPgHaE5?w=256&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Dracaena",
+        "type": "Indoor",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUr": "https://th.bing.com/th/id/OIP.SikPEyKlLETbjKhE9bPXxwHaE8?w=239&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Cast Iron Plant",
+        "type": "Indoor",
+        "wateringFrequency": "Every 10-14 days",
+        "fertilizingFrequency": "Every 2 months",
+        "photoUrl": "https://th.bing.com/th/id/OIP.-n0BGdwcFGllL9QLEVtmEAHaKG?w=145&h=197&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Pothos",
+        "type": "Climber/Indoor",
+        "wateringFrequency": "Every 7-10 days",
+        "fertilizingFrequency": "Every 2-3 months",
+        "photo": "https://th.bing.com/th/id/OIP.oLnzp6XqVXacCVFuTPEHNQHaFj?w=263&h=196&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Boston Fern",
+        "type": "Indoor",
+        "wateringFrequency": "Every 3-4 days",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.EbzKFChv7ObPGRnILAT5kwHaJQ?w=162&h=203&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Peperomia",
+        "type": "Indoor",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.y_A-aFbL5Br7mDVo1u1fhAHaFW?w=262&h=189&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Aglaonema",
+        "type": "Indoor",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.Vq5hSV5DNI3T1fk5WG4aoQHaJ4?w=138&h=184&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Calathea",
+        "type": "Indoor",
+        "wateringFrequency": "Every 4-5 days",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.9aytItwSpYkREz74nKDZjAHaE8?w=250&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Monstera",
+        "type": "Indoor",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUr": "https://th.bing.com/th/id/OIP.xul2ewY-ICl8y7lTzb70AQHaJ4?w=128&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Syngonium",
+        "type": "Indoor",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.tA1KU-qM19jFRHouhR6iMgHaHa?w=172&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Philodendron",
+        "type": "Indoor",
+        "wateringFrequency": "Weekly",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.TspoF4vbY7ivNpyGtfJupQHaHa?w=252&h=190&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Coleus",
+        "type": "Indoor/Outdoor",
+        "wateringFrequency": "Every 2-3 days",
+        "fertilizingFrequency": "Every 2 weeks",
+        "photoUrl": "https://th.bing.com/th/id/OIP.ZuU5yCvkUHlY1fwjstRylgHaE8?w=263&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Sweet Basil",
+        "type": "Herb",
+        "wateringFrequency": "Daily",
+        "fertilizingFrequency": "Every 2-3 weeks",
+        "photoUrl": "https://th.bing.com/th/id/OIP.j7NhTB0anGNcsytEps2aTwHaHa?w=170&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Rosemary",
+        "type": "Herb",
+        "wateringFrequency": "Every 3-4 days",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.iIr-5ya4eayRxeGTD2ykxQHaF_?w=209&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Thyme",
+        "type": "Herb",
+        "wateringFrequency": "Every 3-4 days",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.CdW4FxGKGCJHRh_1V3r6xgHaE7?w=281&h=188&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+        "name": "Pomegranate (Anar)",
+        "type": "Fruit Tree",
+        "wateringFrequency": "Every 2-3 days",
+        "fertilizingFrequency": "Monthly",
+        "photoUrl": "https://th.bing.com/th/id/OIP.i9hZgIF6AQ46OMITpcXmDwHaFj?w=232&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+    }
+]

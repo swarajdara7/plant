@@ -1,0 +1,224 @@
+/* =========================================
+   Premium Nature Glassmorphism Theme 
+========================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap');
+
+:root {
+  /* Color Palette - Vibrant Nature */
+  --color-primary: #10B981; /* Emerald Green */
+  --color-primary-dark: #059669;
+  --color-primary-light: #34D399;
+  --color-secondary: #0D9488; /* Teal */
+  --color-accent: #F59E0B; /* Amber for alerts/badges */
+  
+  /* Backgrounds */
+  --bg-main: #f0fdf4; /* Very light green tint */
+  --bg-card: rgba(255, 255, 255, 0.7);
+  --bg-glass: rgba(255, 255, 255, 0.45);
+  
+  /* Text */
+  --text-dark: #064E3B; /* Dark green text */
+  --text-muted: #4B5563; /* Gray */
+  --text-light: #F9FAFB;
+  
+  /* Shadows & Borders */
+  --shadow-glass: 0 8px 32px 0 rgba(7, 94, 52, 0.15);
+  --border-glass: 1px solid rgba(255, 255, 255, 0.5);
+  --radius-lg: 20px;
+  --radius-md: 12px;
+  
+  /* Transitions */
+  --transition-smooth: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  background: var(--bg-main);
+  background-image: 
+    radial-gradient(at 0% 0%, hsla(146,100%,74%,0.4) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, hsla(167,82%,54%,0.4) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, hsla(144,95%,80%,0.4) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, hsla(158,82%,65%,0.4) 0px, transparent 50%);
+  background-attachment: fixed;
+  color: var(--text-dark);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  color: var(--text-dark);
+}
+
+/* =========================================
+   Glassmorphism Utilities
+========================================= */
+
+.glass-container {
+  background: var(--bg-glass);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: var(--border-glass);
+  box-shadow: var(--shadow-glass);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+}
+
+.glass-card {
+  background: var(--bg-card);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: var(--border-glass);
+  box-shadow: var(--shadow-glass);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  transition: var(--transition-smooth);
+  overflow: hidden;
+  position: relative;
+}
+
+.glass-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 40px rgba(16, 185, 129, 0.2);
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+/* Base button overrides if bootstrap/other UI is used */
+.btn-primary, .btn-success, .action-btn {
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary)) !important;
+  border: none !important;
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3) !important;
+  border-radius: 30px !important; /* Pill shape */
+  font-family: 'Inter', sans-serif;
+  font-weight: 600 !important;
+  color: white !important;
+  padding: 0.6rem 1.5rem !important;
+  transition: var(--transition-smooth) !important;
+  cursor: pointer;
+}
+
+.btn-primary:hover, .btn-success:hover, .action-btn:hover {
+  transform: translateY(-3px) scale(1.02) !important;
+  box-shadow: 0 8px 25px rgba(16, 185, 129, 0.45) !important;
+  filter: brightness(1.1);
+}
+
+.btn-outline-primary {
+  background: transparent !important;
+  border: 2px solid var(--color-primary) !important;
+  color: var(--color-primary) !important;
+  border-radius: 30px !important;
+  font-weight: 600 !important;
+  transition: var(--transition-smooth) !important;
+}
+
+.btn-outline-primary:hover {
+  background: var(--color-primary) !important;
+  color: white !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.3) !important;
+}
+
+/* Sidebar Styling for glassmorphism */
+.sidebar, .bg-dark {
+  background: rgba(6, 78, 59, 0.85) !important; /* Deep forest green translucent */
+  backdrop-filter: blur(10px);
+  border-right: 1px solid rgba(255,255,255,0.1);
+}
+.sidebar-link {
+  color: rgba(255,255,255,0.85) !important;
+  border-radius: 8px;
+  margin: 0.2rem 1rem;
+  transition: var(--transition-smooth);
+}
+.sidebar-link:hover, .sidebar-link.active {
+  background: rgba(255,255,255,0.15) !important;
+  color: white !important;
+  transform: translateX(5px);
+}
+
+/* Navbar */
+.navbar, .navbar-dark {
+  background: rgba(255, 255, 255, 0.6) !important;
+  backdrop-filter: blur(15px);
+  border-bottom: var(--border-glass);
+  box-shadow: 0 4px 30px rgba(0,0,0,0.05) !important;
+}
+.navbar-brand {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--color-primary-dark), var(--color-secondary));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 1.5rem;
+}
+
+/* Tables */
+.table {
+  background: transparent !important;
+}
+.table thead th {
+  border-bottom-width: 2px;
+  color: var(--color-primary-dark);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+}
+.table tbody tr {
+  background: rgba(255, 255, 255, 0.5) !important;
+  transition: var(--transition-smooth);
+}
+.table tbody tr:hover {
+  background: white !important;
+  transform: scale(1.01);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  border-radius: var(--radius-md);
+}
+
+/* Fade-in Animation for Page Loads */
+.fade-in {
+  animation: fadeIn 0.8s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Form Controls */
+.form-control {
+  background: rgba(255, 255, 255, 0.8) !important;
+  border: 1px solid rgba(16, 185, 129, 0.2) !important;
+  border-radius: 12px !important;
+  padding: 0.8rem 1rem !important;
+  transition: var(--transition-smooth);
+}
+.form-control:focus {
+  background: white !important;
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2) !important;
+  border-color: var(--color-primary) !important;
+}
+
+/* Marquee Animation */
+@keyframes scrollBanner {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+.banner-container {
+  position: relative;
+}
+.marquee-content {
+  display: inline-flex;
+  min-width: 200%;
+}
